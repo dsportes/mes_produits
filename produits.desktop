@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=produits
+Type=Application
+Exec=/home/coquelicoop/balance/produits.AppImage
+Terminal=false
+Icon=/home/coquelicoop/balance/tomate.png
+NoDisplay=false
+Categories=Utility;
