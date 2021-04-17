@@ -5,7 +5,7 @@
   "productName": "produits",
   "cordovaId": "",
   "capacitorId": "",
-  "author": "daniel@sportes.fr>",
+  "author": "Daniel Sportes <daniel@sportes.fr>",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.vue src",
